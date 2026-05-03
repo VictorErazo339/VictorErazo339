@@ -3,10 +3,9 @@
 <h2 align="center">Sobre mi</h2>
 
 - 💻 **Desarrollador FullStack Java en formación** ✨
-- 🧠 Explorando por primera vez en el ambito de la programación
 - 🎓 Actualmente formándome en el bootcamp de **Generation**
-- 🤝 Experiencia en trabajo en equipo, desarrollo de proyectos y habilidades
-- 🎨 Artista Ilustrador autodidacta
+- 🤝 Experiencia en trabajo en equipo, desarrollo de proyectos y habilidades.
+- 🎨 Artista Ilustrador autodidacta.
 
 ---
 <h2 align="center">🛠️ Stack 🛠️</h2>
@@ -22,9 +21,9 @@
 <h2 align="center">🎯 Mi meta 🎯</h2>
 
 Convertirme en un desarrollador FullStack Java profesional con tal de:
-* Entregar soluciones a las necesidades de las personas desde lo estético y funcional
-* Combinar el arte 🎨 con la tecnología 💻 para diseñar experiencias unicas y atractivas para los usuarios
-* Colaborar con otros desarrolladores programaticos en futuros proyectos
+* Entregar soluciones a las necesidades de las personas desde lo estético y funcional.
+* Combinar el arte 🎨 con la tecnología 💻 para diseñar experiencias unicas y atractivas para los usuarios.
+* Colaborar con otros desarrolladores programaticos en futuros proyectos.
 
 ---
 <h2 align="center">🪶 Frase personal</h2>
